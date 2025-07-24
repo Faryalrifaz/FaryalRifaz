@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Faryal 👋</h1>
-<p align="center">
-  <em>MPhil Statistics Student | Data Analyst | Machine Learning Enthusiast</em>
-</p>
+
+<img width="1536" height="1024" alt="ChatGPT Image Jul 24, 2025, 01_07_40 PM" src="https://github.com/user-attachments/assets/48bc5b81-7c1e-4d5a-997d-bc8522c024f5" />
 
 ---
 ### 🌱 About Me
@@ -10,9 +8,12 @@
 - 🔬 Research focused on **Time Series Forecasting using Deep Learning**
 - 🌱 I’m currently learning **Machine Learning** **Deep Learning**, **Time Series Forecasting**, and **Data Science tools**
 
+---
 
 ### 📊 Skills:
 ` Python Skills` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`  `R` `SPSS` `Excel`
+
+---
 
 ### 💼 Freelance Services
 
@@ -26,7 +27,7 @@
 - 📈 Statistical Testing (T-test, ANOVA, Chi-Square, Correlation, Regression)  
 - 📉 Advanced Statistical Analysis (SPSS, R, Python – Parametric & Non-Parametric Tests)   
 
-
+---
 
 ### 📫 Reach me on:
 - 💼 [LinkedIn](linkedin.com/in/faryal-rifaz-b8a885304)
@@ -34,5 +35,5 @@
 - 💌 Email: faryalrifaz@gmail.com
 
 ---
-⭐️ Thanks for visiting my profile!
+### ⭐️ Thanks for visiting my profile!
 
