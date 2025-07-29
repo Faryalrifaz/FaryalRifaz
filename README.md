@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=faryalrifaz&color=0d6efd" alt="Profile Views">
+</p>
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/48bc5b81-7c1e-4d5a-997d-bc8522c024f5" alt="Faryal's GitHub Profile Banner" width="600" />
