@@ -6,6 +6,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=faryalrifaz&label=Profile%20views&color=5DADE2&label_color=ffffff&style=flat" alt="faryalrifaz" />
+</p>
+
+
 ##  **About Me**  
 I'm **Faryal**, a passionate and aspiring **Data Scientist** from **Pakistan** dedicated to exploring **Machine Learning, Data Analysis, and AI applications** that create real-world impact  
 
