@@ -35,10 +35,10 @@ I'm **Faryal**, a passionate and aspiring **Data Scientist** from **Pakistan** d
 
 ##  Experience  
 
-**Data Zenix Solutions** — *Machine Learning Intern*  
+**[Data Zenix Solutions](https://github.com/Faryalrifaz/DataZenix_internship2025)** — *Machine Learning Intern*  
 *Gained practical experience in data preprocessing, model building, and statistical analysis*
 
-**Murick Technologies** — *AI & ML Intern*  
+**[Murick Technologies](https://github.com/Faryalrifaz/MurickTechnologies-_internship2025)** — *AI & ML Intern*  
 *Worked on applied AI projects focused on machine learning and automation*
 
 ---
