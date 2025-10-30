@@ -25,7 +25,7 @@ I'm **Faryal**, a passionate and aspiring **Data Scientist** from **Pakistan** d
 
 <p align="center">
   <a href="https://github.com/Faryalrifaz"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
-  <a href="https://www.linkedin.com/in/faryalrifaz"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+  <a href="https://www.linkedin.com/in/faryal-rifaz"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
   <a href="mailto:faryalrifaz@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
   <a href="https://www.kaggle.com/faryalrifaz3374"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40" /></a>
   <a href="https://twitter.com/FaryalRifaz"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
